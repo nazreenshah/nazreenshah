@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nazreenshah
-- 👀 I’m interested in image processing
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on image processing projects
+- 👀 I’m interested in federated learning
+- 🌱 I’m currently learning personalized federated learning
+- 💞️ I’m looking to collaborate on FL projects
 - 📫 How to reach me : nazreensa@gmail.com
 
 <!---
